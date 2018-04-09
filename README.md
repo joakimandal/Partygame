@@ -14,7 +14,18 @@ To play the game, you will need the following:
   * There is no need for an internet connection. All you need is to connect the computer and phone through local wifi.
 
   
-# Pictures
+# Pictures of client controllers
 When launching the app, the app shows a connect button so that the player can connect to the game.
+
+
 ![Connect](https://raw.githubusercontent.com/joakimandal/Partygame/master/connect.png)
-Clicking the connect button will show an input dialog where you write your name 
+
+Clicking the connect button will show an input dialog where you write a name that will be shown on the game(running on the computer).
+
+After writing a name and connecting, the first player will get a "leader controller", so that he can change settings and start a game. 
+
+![Leader controller](https://raw.githubusercontent.com/joakimandal/Partygame/master/leadercontroller.png)
+
+The rest of the players will get a screen showing that they are connected, and waiting for the leader to start a game.
+
+![Connected, not leader](https://raw.githubusercontent.com/joakimandal/Partygame/master/conntectedtwo.png)
