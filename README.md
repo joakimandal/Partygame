@@ -1,6 +1,6 @@
 # Partygame
 NOTE:
-*Some of the videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game window is not recorded.
+* Some of the videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game window is not recorded.
 * All assets are currently placeholder assets.
 * All UI are temporary.
 
