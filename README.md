@@ -37,5 +37,9 @@ When all players are connected, the leader can choose a minigame. When a minigam
 As of now, the game consists of 5 minigames.
 
 ## Count the number
+Click on the picture to watch a video of the minigame
+
 [![Count the number video](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/c65zt)
-This minigame is about counting the number of entities passing through the screen. 
+
+This minigame is about counting the number of entities passing through the screen. The winner is the player that counted the nearest amount.
+The controller for this game is a simple button, and for each button press, the player has counted an entity. If the players presses the button 10 times throughout the minigame, the player counted a total of 10 entities.
