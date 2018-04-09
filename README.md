@@ -43,7 +43,7 @@ Click on the picture to watch a demo of the minigame
 
 This minigame is about counting the number of entities passing through the screen. The winner is the player that counted the nearest amount.
 
-The controller for this game is a simple button, and for each button press, the player has counted an entity. If the players presses the button 10 times throughout the minigame, the player counted a total of 10 entities.
+The controller for this game is a simple button, and for each button press, the player has counted an entity. If the player presses the button 10 times throughout the minigame, the player counted a total of 10 entities.
 
 ## Achtung 
 Click on the picture to watch a demo of the minigame
