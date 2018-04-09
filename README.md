@@ -15,7 +15,6 @@ To play the game, you will need the following:
 
   
 # Pictures
-
-
-The first client to connect becomes the leader. The leader gets a controller, so that he can choose different settings and what game to be played. When the leader selects a game, the server sends a controller to the clients,
-This is a game meant to be played in a couch together with friends (or enemies).
+When launching the app, the app shows a connect button so that the player can connect to the game.
+![Connect](https://raw.githubusercontent.com/joakimandal/Partygame/master/connect.png)
+Clicking the connect button will show an input dialog where you write your name 
