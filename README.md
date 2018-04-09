@@ -14,7 +14,7 @@ To play the game, you will need the following:
 * A computer, capable of running java 
 * For each participant, an ios or an android smartphone or tablet
 * A wifi router or a local hotspot
-  * Newer windows laptops may have this hotspot feature
+  * Newer windows' laptops may have this hotspot feature
   * Most smartphones have this hotspot feature
   * There is no need for an internet connection. All you need is to connect the computer and phone through local wifi.
 
@@ -87,7 +87,7 @@ Watch a demo of split screen
 
 [![Split screen demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/vnz3e)
 
-Demo of splitscreen. There are currently not any max number of players when using the split screen mode, but if the player size is larger than 8 players, each split screen area would most likely be too small.
+Demo of splitscreen. There are currently not any max number of players when using the split screen mode, but if the player size is larger than 8 players, each split screen area would most likely become too small.
 
 ## Screen shake
 Click the picture to watch a demo of screen shake
