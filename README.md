@@ -92,4 +92,4 @@ Click the picture to watch a demo of screen shake
 
 [![Screen shake demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/xgzb3)
 
-Demo of screen shake. In this demo, screen shake is applied when a player entity hits the ground. The screen shake is based on the y-velocity of the player.
+Demo of screen shake. In this demo, screen shake is applied when a player entity hits the ground. The screen shake applied is based on the y-velocity of the player. 
