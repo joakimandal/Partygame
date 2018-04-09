@@ -29,3 +29,13 @@ After writing a name and connecting, the first player will get a "leader control
 The rest of the players will get a screen showing that they are connected, and waiting for the leader to start a game.
 
 ![Connected, not leader](https://raw.githubusercontent.com/joakimandal/Partygame/master/conntectedtwo.png)
+
+When all players are connected, the leader can choose a minigame. When a minigame is selected, the game will send a controller to all players. This controller will now send input to the server.
+
+
+# Minigames
+As of now, the game consists of 5 minigames.
+
+## Count the number
+[![Count the number video](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/c65zt)
+This minigame is about counting the number of entities passing through the screen. 
