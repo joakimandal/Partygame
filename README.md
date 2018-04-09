@@ -73,9 +73,11 @@ This minigame is about controlling an entity and maneuvering this entity through
 The controller of this minigame is a joystick and a button. The joystick is used to go either left or right, and the button is used to jump. 
 
 ## Top down shooter
-Click on the picture to watch a demo of the minigame
+This minigame is a top-down minigame where each player controls an entity. At the start of the game, each player chooses a set of "spells" or "attacks". Some of these spells are defensive, while other are offensive. Most offensive spells will deal damage to other players on hit, reducing their health. When your health is 0 or below, you are dead. The goal of this game is to be the last survivor.
 
+The controller of this minigame is a joystick and 3 buttons. The joystick are used to move the player entity, and the buttons are pressed to use the spells chosen at the start of the game. Ex button 1 will use chosen spell 1, button 2 will use chosen spell 2. ect. 
 
+Each spell has a given cooldown, and can only be used if the spell is not on cooldown.
 
 
 # Implemented features
@@ -97,4 +99,10 @@ Demo of screen shake. In this demo, screen shake is applied when a player entity
 
 # FAQ
 
-?
+Which controller input types are supported?
+The game currently supports the following input types:
+* Buttons. Sends button down and button up events to the server.
+* Joystick. Sends continous input when the joystick is touched.
+* Touchpad. The touchpad simulates a laptop touchpad, sending touch drags to the server.
+* Accelerometer. The accelerometer sends continous input depending on how you hold your phone. 
+
