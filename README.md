@@ -1,5 +1,9 @@
 # Partygame
-NOTE: Some of the videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game window is not recorded.
+NOTE:
+*Some of the videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game window is not recorded.
+* All assets are currently placeholder assets.
+* All UI are temporary.
+
 # What is this?
 "Party Game" is a game were the participants use their smartphone as a controller to play different minigames. The idea is that you run a game on a computer, and each player connects to the game through an app or a localhost webpage(Not supported yet).
 
