@@ -81,11 +81,11 @@ Watch a demo of split screen
 
 [![Split screen demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/vnz3e)
 
-Demo of splitscreen.
+Demo of splitscreen. There are currently not any max number of players when using the split screen mode. But if the player size is larger than 8 players, each split screen area would most likely be too small.
 
 ## Screen shake
 Click the picture to watch a demo of screen shake
 
 [![Screen shake demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/xgzb3)
 
-Demo of screen shake.
+Demo of screen shake. In this demo, screen shake is applied when a player entity hits the ground. The screen shake is based on the y-velocity of the player.
