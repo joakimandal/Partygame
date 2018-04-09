@@ -1,5 +1,5 @@
 # Partygame
-NOTE: All videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game is not recorded.
+NOTE: Some of the videos are currently not recorded in fullscreen. This makes the video look a bit "off", as a part of the game window is not recorded.
 # What is this?
 "Party Game" is a game were the participants use their smartphone as a controller to play different minigames. The idea is that you run a game on a computer, and each player connects to the game through an app or a localhost webpage(Not supported yet).
 
@@ -9,8 +9,9 @@ The game contains multiple small minigames, with a game length that vary from 20
 To play the game, you will need the following:
 * A computer, capable of running java 
 * For each participant, an ios or an android smartphone or tablet
-* A wifi router or a computer simulating a wifi router
-  * Newer windows laptops may have this feature
+* A wifi router or a local hotspot
+  * Newer windows laptops may have this hotspot feature
+  * Most smartphones have this hotspot feature
   * There is no need for an internet connection. All you need is to connect the computer and phone through local wifi.
 
   
