@@ -105,5 +105,5 @@ The game currently supports the following input types:
 * Buttons. Sends button down and button up events to the server.
 * Joystick. Sends continous input when the joystick is touched.
 * Touchpad. The touchpad simulates a laptop touchpad, sending touch drags to the server.
-* Accelerometer. The accelerometer sends continous input of how you hold your phone. 
+* Accelerometer. The accelerometer sends continous input about how you hold your phone. 
 
