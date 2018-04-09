@@ -64,7 +64,7 @@ This minigame is about controlling a box and maneuvering this box through a maze
 The controller of this minigame is simulating a touchpad on a laptop. The player touches the screen with a finger, and "moves" the box on the screen. Ex. dragging the finger left will move the box to the left.
 
 ## Platformer speedrun
-This minigame is about controller an entity and maneuvering this entity through a map like a platformer. You can move left and right, and jump if you are standing on ground or sliding down a wall(Wall jump). The goal of this game is to reach the goal first.
+This minigame is about controlling an entity and maneuvering this entity through a map like a platformer. You can move left and right, and jump if you are standing on ground or sliding down a wall(Wall jump). The goal of this game is to reach the goal first.
 
 The controller of this minigame is a joystick and a button. The joystick is used to go either left or right, and the button is used to jump. 
 
