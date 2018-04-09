@@ -33,22 +33,6 @@ The rest of the players will get a screen showing that they are connected, and w
 
 When all players are connected, the leader can choose a minigame. When a minigame is selected, the game will send a controller to all players. This controller will now send input to the server.
 
-# Implemented features
-
-## Split screen
-Watch a demo of split screen
-
-[![Split screen demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/vnz3e)
-
-Demo of splitscreen.
-
-## Screen shake
-Click the picture to watch a demo of screen shake
-
-[![Screen shake demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/xgzb3)
-
-Demo of screen shake.
-
 # Minigames
 As of now, the game consists of 5 minigames.
 
@@ -88,3 +72,20 @@ The controller of this minigame is a joystick and a button. The joystick is used
 Click on the picture to watch a demo of the minigame
 
 
+
+
+# Implemented features
+
+## Split screen
+Watch a demo of split screen
+
+[![Split screen demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/vnz3e)
+
+Demo of splitscreen.
+
+## Screen shake
+Click the picture to watch a demo of screen shake
+
+[![Screen shake demo](https://raw.githubusercontent.com/joakimandal/Partygame/master/countthenumber.png)](https://streamable.com/xgzb3)
+
+Demo of screen shake.
