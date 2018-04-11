@@ -100,7 +100,7 @@ Demo of screen shake. In this demo, screen shake is applied when a player entity
 # FAQ
 
 What is this game written in?
-The game is written in java, using the framework Libgdx. The framework Kryonet is used for networking.
+* The game is written in java, using the framework Libgdx. The framework Kryonet is used for networking.
 
 
 Which controller input types are supported?
