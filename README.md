@@ -107,3 +107,7 @@ The game currently supports the following input types:
 * Touchpad. The touchpad simulates a laptop touchpad, sending touch drags to the server.
 * Accelerometer. The accelerometer sends continous input about how you hold your phone. 
 
+
+What is this game written in?
+
+The game is written in java, using the framework Libgdx. The framework Kryonet is used for networking.
