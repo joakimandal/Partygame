@@ -99,14 +99,14 @@ Demo of screen shake. In this demo, screen shake is applied when a player entity
 
 # FAQ
 
-What language is this game written in?
-* The game is written in Java, using the framework Libgdx. The framework Kryonet is used for networking.
+* What language is this game written in?
+  * The game is written in Java, using the framework Libgdx. The framework Kryonet is used for networking.
 
 
-Which controller input types are supported?
+* Which controller input types are supported?
 
-The game currently supports the following input types:
-* Buttons. Sends button down and button up events to the server.
-* Joystick. Sends continous input when the joystick is touched.
-* Touchpad. The touchpad simulates a laptop touchpad, sending touch drags to the server.
-* Accelerometer. The accelerometer sends continous input about how you hold your phone. 
+  * The game currently supports the following input types:
+    * Buttons. Sends button down and button up events to the server.
+    * Joystick. Sends continous input when the joystick is touched.
+    * Touchpad. The touchpad simulates a laptop touchpad, sending touch drags to the server.
+    * Accelerometer. The accelerometer sends continous input about how you hold your phone. 
